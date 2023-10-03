@@ -20,4 +20,7 @@ defmodule Card do
     # :world
     ["hi", "there", "1"]
   end
+  def create_deck do
+    ["Ace", "Two", "Three"]
+  end
 end
